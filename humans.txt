@@ -1,0 +1,17 @@
+/* TEAM */
+	Artist: Chad Thoreson
+	Contact: baskwalla [at] gmail.com
+	Twitter: @baskwalla
+	From: Tea, South Dakota, United States
+
+	C3-PO: Alex Wollman
+	Contact: alex.wollman [at] gmail.com
+	Twitter: @axman68
+	From: Madison, South Dakota, United States
+
+/* SITE */
+	Last update: 2011/01/25
+	Language: English
+	Doctype: HTML5 with CSS3
+	Tools: HTML5Boilerplate, Framework 3
+	IDE: Coda
